@@ -1,0 +1,16 @@
+# Binary game data and personal progress must stay local.
+*.iso
+*.ISO
+*.xp3
+*.zip
+*.7z
+*.rar
+*.exe
+*.pdb
+*.part
+*.tmp
+savedata/
+sources/build/
+donnees/*
+!donnees/manifest.tsv
+/target/
